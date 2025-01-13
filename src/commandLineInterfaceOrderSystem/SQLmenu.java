@@ -28,7 +28,7 @@ public class SQLmenu {
 
 	// ---Run Main Menu--------
 
-	public static void runMainMenu() {
+	public static void runMainMenu() { //run main menu method, what users first see when running program
 		String selectedDataType;
 		String selectedQuery;
 
