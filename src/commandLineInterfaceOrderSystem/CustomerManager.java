@@ -20,7 +20,7 @@ public class CustomerManager {
 																		// currrently initialising everywhere, not efficient, and calling	
 																		// from main menu means scanner can be closed before system exit.
 		System.out.println("Please enter customer username:");
-		return attemptUsername();
+		return attemptUsername(); //returns method attempt user.name
 	}
 
 	public static String attemptUsername() {
