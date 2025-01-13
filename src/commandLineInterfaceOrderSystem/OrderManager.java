@@ -292,7 +292,7 @@ public class OrderManager {
 	}
 	// -------------------------UPDATE-----------------------------------
 
-	public void runUpdateOrder() {
+	public void runUpdateOrder() { // method for Updating order
 		String orderPropertyType;
 		String selectedCustomerEmail;
 		String selectedCustomerId;
