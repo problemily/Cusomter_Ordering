@@ -119,7 +119,7 @@ public class ItemManager {
 			System.out.println("Item price must be in pounds and pence, e.g. 4.99, 5.00");
 			return prepareItemPriceAttempt();
 		} else {
-			return enteredItemPrice; // email entered correctly
+			return enteredItemPrice; // email entered correctly, succeeds
 		}
 	}
 
