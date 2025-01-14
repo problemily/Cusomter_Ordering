@@ -29,7 +29,7 @@ public class SQLmenu {
 	// ---Run Main Menu--------
 
 	public static void runMainMenu() { //run main menu method, what users first see when running program
-		String selectedDataType; //comment for build test
+		String selectedDataType; //comment for build test 
 		String selectedQuery;
 
 		System.out.println("Welcome to Lepick Pharmacy's customer ordering system."
