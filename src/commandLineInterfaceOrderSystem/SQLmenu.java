@@ -23,7 +23,7 @@ public class SQLmenu {
 	// -----METHODS-----
 
 	// public static String programExit(String exit) { Idea saved for later // this is now further down in helpers
-	// System.out.println("Program will be terminated")
+	// System.out.println("Program will be terminated").
 	// }
 
 	// ---Run Main Menu--------
