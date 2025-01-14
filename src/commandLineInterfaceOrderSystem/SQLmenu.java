@@ -23,13 +23,13 @@ public class SQLmenu {
 	// -----METHODS-----
 
 	// public static String programExit(String exit) { Idea saved for later // this is now further down in helpers
-	// System.out.println("Program will be terminated")
+	// System.out.println("Program will be terminated").
 	// }
 
 	// ---Run Main Menu--------
 
 	public static void runMainMenu() { //run main menu method, what users first see when running program
-		String selectedDataType;
+		String selectedDataType; //comment for build test 
 		String selectedQuery;
 
 		System.out.println("Welcome to Lepick Pharmacy's customer ordering system."
